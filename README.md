@@ -1,18 +1,9 @@
 # PoseEstimationResult
-- Pose landmark 33 points
-- Right-hand landmark 21 points 
-- Left-hand landmark 21 points.
-- 1 point consists of [x,y,z]: 
+## video
+- resolution Full HD(1920 x 1080) 
+- 30 fps
 
-## _Pose Landmark_
-
-[![N|Solid](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)
-
-## _Hands Landmark_
-right hand and lest hand is same. 
-[![N|Solid](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
-
-structure of resource
+## structure of resource
 - 1 value in list = 1 frame
 ```
 [
@@ -47,3 +38,16 @@ structure of resource
     },
 ]
 ```
+
+## More information about pose estimation
+- Pose landmark 33 points
+- Right-hand landmark 21 points 
+- Left-hand landmark 21 points.
+- 1 point consists of [x,y,z]: 
+### _Pose Landmark_
+
+[![N|Solid](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)
+
+### _Hands Landmark_
+right hand and lest hand is same. 
+[![N|Solid](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
