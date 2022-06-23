@@ -8,26 +8,26 @@
 ```
 [
     {
-        "pose_landmark":
+        'pose_landmark':
             {
-                "NOSE":{'x':x,'y':y,'z':z},
-                "LEFT_EYE_INNER":{'x':x,'y':y,'z':z},
+                'NOSE':{'x':x,'y':y,'z':z},
+                'LEFT_EYE_INNER':{'x':x,'y':y,'z':z},
                 ...
-                "RIGHT_FOOT_INDEX":{'x':x,'y':y,'z':z}
+                'RIGHT_FOOT_INDEX':{'x':x,'y':y,'z':z}
             },
-        "right_hand_landmark":
+        'right_hand_landmark':
             {
-                "WRIST":{'x':x,'y':y,'z':z},
-                "THUMB_CMC":{'x':x,'y':y,'z':z},
+                'WRIST':{'x':x,'y':y,'z':z},
+                'THUMB_CMC':{'x':x,'y':y,'z':z},
                 ...,
-                "PINKY_TIP":{'x':x,'y':y,'z':z}
+                'PINKY_TIP':{'x':x,'y':y,'z':z}
             },
-        "left_hand_landmark":
+        'left_hand_landmark':
             {
-                "WRIST":{'x':x,'y':y,'z':z},
-                "THUMB_CMC":{'x':x,'y':y,'z':z},
+                'WRIST':{'x':x,'y':y,'z':z},
+                'THUMB_CMC':{'x':x,'y':y,'z':z},
                 ...,
-                "PINKY_TIP":{'x':x,'y':y,'z':z}
+                'PINKY_TIP':{'x':x,'y':y,'z':z}
             }
     },
     {
