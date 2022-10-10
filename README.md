@@ -46,8 +46,8 @@
 - 1 point consists of [x,y,z]: 
 ### _Pose Landmark_
 
-[![N|Solid](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)](https://google.github.io/mediapipe/images/mobile/pose_tracking_full_body_landmarks.png)
+[![N|Solid](asset/images/pose_tracking_full_body_landmarks.png)](https://mediapipe.dev/images/mobile/pose_tracking_full_body_landmarks.png)
 
 ### _Hands Landmark_
 right hand and lest hand is same. 
-[![N|Solid](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)](https://google.github.io/mediapipe/images/mobile/hand_landmarks.png)
+[![N|Solid](asset/images/hand_landmarks.png)](https://mediapipe.dev/images/mobile/hand_landmarks.png)
